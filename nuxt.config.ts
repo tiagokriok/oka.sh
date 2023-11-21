@@ -12,6 +12,7 @@ export default defineNuxtConfig({
     '@vueuse/nuxt',
     '@nuxt/ui',
     '@nuxtjs/supabase',
+    '@nuxtjs/google-fonts',
   ],
   i18n: {
     vueI18n: './locales/i18n.config.ts',
